@@ -1,0 +1,31 @@
+.tab{
+    display:inline-table;
+    height: 100%;
+    
+}
+.row{
+    display: table-row;
+    
+}
+.col{
+    display: table-column;
+    height: 100%; 
+    background-color: green;
+}
+.cell{
+    display: table-cell;
+    height: 35px;
+    width: 35px;
+}
+.col1{
+    background: gray;
+    display: table-column;
+}
+.col2{
+    background: red;
+    display: table-column;
+}
+.cap{
+    display: table-caption;
+    background: darkgrey;
+}
